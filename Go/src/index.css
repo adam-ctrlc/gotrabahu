@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Geist:wght@100..900&display=swap');
+@import 'tailwindcss';
+
+html {
+  font-family: 'Geist', Arial, Helvetica, sans-serif;
+  scroll-behavior: smooth;
+}
+
+@theme {
+  --color-accent: #96b753;
+  --color-hover: #446418;
+  --color-accent-50: #f6f9f0;
+  --color-accent-100: #eaf2dc;
+  --color-accent-200: #d6e5be;
+  --color-accent-300: #bdd396;
+  --color-accent-400: #a5c26f;
+  --color-accent-500: #96b753;
+  --color-accent-600: #7a9642;
+  --color-accent-700: #5f7535;
+  --color-accent-800: #4e5e2d;
+  --color-accent-900: #446418;
+}
